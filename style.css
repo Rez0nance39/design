@@ -1,0 +1,10 @@
+.class{
+    height: 200px;
+    background: red;
+    transition: 1s;
+    border-radius: 50px;
+}
+.class:hover{
+    clip-path: polygon(0 3%, 100% 0%, 40% 79%, 0% 100%);
+
+}
